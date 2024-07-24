@@ -4294,10 +4294,6 @@ body {
     border-radius: 0 0 8px 8px;
   }
   
-  div#a-popover-3 {
-    height: 503px !important;
-    width: 1000px !important;
-  }
   
   .a-inline-block, .aok-inline-block {
     display: inline-block;
@@ -4573,7 +4569,6 @@ body {
     justify-content: center;
     font-size: large;
   }
-
 
 /*========================================================
 {{ thorvarium | vine-styling | mobile | ios-with-bugfix }}
