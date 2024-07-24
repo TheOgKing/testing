@@ -5121,3 +5121,12 @@ span#vvp-tax-report-file-type-select {
 .vvp-tab-content {
     font-size: 12px !important;
 }
+
+.vvp-tax-year-container {
+  width: auto !important;
+}
+
+#vvp-tax-information-container .a-section {
+  display: inline-block;
+  margin-right: auto !important;
+}
