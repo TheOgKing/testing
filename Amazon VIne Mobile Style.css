@@ -5,7 +5,7 @@
 
 body {
     color: #aaa !important;
-    background-color: #1c1f26 !important;
+    background-color: #41454f !important;
   }
   
   * {
@@ -985,6 +985,7 @@ body {
   
   ul.a-tabs .a-tab-heading a, ul.a-tabs li a {
     border-bottom: 0px transparent !important;
+    box-shadow: unset;
   }
   
   ul.a-tabs li.a-active a,
@@ -1034,11 +1035,6 @@ body {
     height: 55px !important;
   }
   
-  #vvp-items-grid .vvp-item-tile .vvp-item-tile-content {
-    width: 229px !important;
-    margin: 27px auto !important;
-    top: 20px !important;
-  }
   
   span#vvp-gold-tier-label {
     color: gold;
@@ -1685,7 +1681,7 @@ body {
   }
   
   .a-button-toggle.a-button-selected .a-button-text {
-    background: #3a3f4a !important;
+    background: #4a6296 !important;
   }
   
   .a-button-toggle.a-button-selected,
@@ -3769,7 +3765,7 @@ body {
   .a-box .a-box-inner,
   .a-button-group-splitdropdown .a-button,
   .a-dropdown-container .a-button-dropdown {
-    background: #1c1f26 !important;
+    background: #41454f !important; /* background gg*/
   }
   
   .cr-lighthouse-term {
@@ -4952,7 +4948,7 @@ body {
 #vvp-items-button--recommended a::before,
 #vvp-items-button--all a::before,
 #vvp-items-button--seller a::before {
-  color: black !important;
+  color: white !important;
   position: absolute;
   font-size: 20px;
   font-weight: bold;
