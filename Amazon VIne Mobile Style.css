@@ -4599,7 +4599,7 @@ otherwise, values are calculated */
   var(--default-item-tile-height)
 );
 
---calc-grid-column-width: calc(var(--item-tile-height) * 3.75)
+--calc-grid-column-width: calc(var(--item-tile-height) * 2.75);
 --grid-column-width: var(
   --custom-item-grid-column-width,
   var(--calc-grid-column-width)
